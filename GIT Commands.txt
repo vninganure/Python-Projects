@@ -3,3 +3,6 @@ git init :- create new repository
 git add --a :- add all files in staging area, replace file name with --a if need to stage perticular file.
 git commit -m " ":- commit with message
 git log :- know the details of commit
+git clone :- clone repository from online.
+pwd :- present working directory
+ls :- list command
