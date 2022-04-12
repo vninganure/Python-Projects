@@ -85,8 +85,8 @@ def find_password():
 
 # ---------------------------- UI SETUP ------------------------------- #
 
-windows = Tk()
-windows.title("Password Manager")
+windows =Tk()
+windows.title('Password Manager')
 windows.config(padx=50, pady=50)
 
 canvas = Canvas(width=200, height=200)
